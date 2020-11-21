@@ -1,7 +1,7 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Background
-For this assignment, write code that will create a table dynamically based upon a [dataset we provide](StarterCode/static/js/data.js). We also need to allow our users to filter the table data for specific values. Languages for this assignment are: JavaScript, HTML, and CSS, and D3.js.
+For this assignment, write code that will create a table dynamically based upon a [dataset we provide](static/js/data.js). We also need to allow our users to filter the table data for specific values. Languages for this assignment are: JavaScript, HTML, and CSS, and D3.js.
 
 ## Your Task
 
