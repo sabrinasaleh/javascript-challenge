@@ -9,7 +9,7 @@ Create a basic HTML web page or use the index.html file provided (we recommend b
 
 * **Screen Shot of Level 1: Main Page with Full Dataset** 
 
-![1_level1](ScreenShots/screen_1.PNG)
+![1_level1](ScreenShots/screen_1.png)
 ![2_level1](ScreenShots/screen_2.png)
 
 * **Screen Shot of Level 1: Data Filter by Date (1/12/2010)**
