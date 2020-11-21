@@ -12,7 +12,7 @@ Create a basic HTML web page or use the index.html file provided (we recommend b
 ![1_level1](ScreenShots/screen_1.PNG)
 ![2_level1](ScreenShots/screen_2.png)
 
-* **Screen Shot of Level 1: Filter by Date (1/12/2010)**
+* **Screen Shot of Level 1: Data Filter by Date (1/12/2010)**
 
 ![3_level1](ScreenShots/screen_3.PNG)
 
