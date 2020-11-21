@@ -9,12 +9,12 @@ Create a basic HTML web page or use the index.html file provided (we recommend b
 
 * **Screen Shot of Level 1: Main Page with Full Dataset** 
 
-![1_level1](ScreenShots/screen_1.png)
-![2_level1](ScreenShots/screen_2.png)
+![1_level1](ScreenShots/screen-shot-1.PNG)
+![2_level1](ScreenShots/screen-shot-2.PNG)
 
 * **Screen Shot of Level 1: Data Filter by Date (1/12/2010)**
 
-![3_level1](ScreenShots/screen_3.PNG)
+![3_level1](ScreenShots/screen-shot-3.PNG)
 
 ### Level 2: Multiple Search Categories (Optional)
 
@@ -28,15 +28,15 @@ Complete all of Level 1 criteria. Using multiple `input` tags and/or select drop
   
 * **Screen Shot of Level 2: Full Dataset with Multiple Filter Options** 
 
-![4_level2](ScreenShots/screen_4.PNG)
+![4_level2](ScreenShots/screen-shot-4.PNG)
 
 * **Screen Shot of Level 2: Subset of Data by Single Filter ("state": "ca")**
 
-![5_level2](ScreenShots/screen_5.PNG)
+![5_level2](ScreenShots/screen-shot-5.PNG)
 
 * **Screen Shot of Level 2: Subset of Data by Multiple Filters ("city": "san diego", "state": "ca", "country": "us")**
 
-![6_level2](ScreenShots/screen_6.PNG)
+![6_level2](ScreenShots/screen-shot-6.PNG)
 
 ### Technologies used for the assignment:
 * HTML 
